@@ -17,11 +17,12 @@ Or install it yourself as:
     $ gem install carban
 
 ##Usage
-require 'carban'
-sm  = Carban::StackMachine.new
-sm.opcodes = [15, 1, 15, 1, 0]
-sm.run
-sm.data_stack #should return [2]
+
+1. require 'carban'
+2. sm  = Carban::StackMachine.new
+3. sm.opcodes = [15, 1, 15, 1, 0]
+4. sm.run
+5. sm.data_stack #should return [2]
 
 
 ## Contributing
