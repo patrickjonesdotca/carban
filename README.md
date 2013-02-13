@@ -1,6 +1,6 @@
 # Carban
 
-TODO: Write a gem description
+TODO: A Rubygem that implements the Carban Instruction Set as a Virtual Machine.
 
 ## Installation
 
@@ -16,9 +16,6 @@ Or install it yourself as:
 
     $ gem install carban
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
