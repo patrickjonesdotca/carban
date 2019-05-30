@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.version       = Carban::VERSION
   gem.authors       = ["patrick"]
   gem.email         = ["patrick@patrickjones.ca"]
-  gem.description   = %q{A Virtual Machine implemented as Abstract Stack Machine and Abstract Register Machine}
+  gem.description   = %q{A Virtual Machine implemented as Abstract Stack Machine}
   gem.summary       = %q{Virtual Machine implementations of the Carban Instruction Set}
   gem.homepage      = ""
 
